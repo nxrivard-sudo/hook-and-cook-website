@@ -10,6 +10,7 @@
   <meta property="og:type" content="restaurant.restaurant" />
   <meta property="og:title" content="Hook &amp; Cook — San Clemente Pier" />
   <meta property="og:description" content="Pier-end food, drinks, and shave ice at San Clemente. Order ahead when online ordering is live." />
+  <meta property="og:image" content="https://nxrivard-sudo.github.io/hook-and-cook-website/assets/logo-1.png" />
   <meta property="og:locale" content="en_US" />
   <meta name="geo.region" content="US-CA" />
   <meta name="geo.placename" content="San Clemente" />
@@ -20,7 +21,11 @@
     "@context": "https://schema.org",
     "@type": "Restaurant",
     "name": "Hook & Cook",
-    "image": [],
+    "image": [
+      "https://nxrivard-sudo.github.io/hook-and-cook-website/assets/logo-1.png",
+      "https://nxrivard-sudo.github.io/hook-and-cook-website/assets/menu-food.jpg",
+      "https://nxrivard-sudo.github.io/hook-and-cook-website/assets/menu-drinks.jpg"
+    ],
     "servesCuisine": ["Seafood", "California", "Coffee", "Shaved Ice"],
     "address": {
       "@type": "PostalAddress",
@@ -52,7 +57,7 @@
   <header class="site-header">
     <div class="wrap header-row">
       <a class="brand" href="#top" aria-label="Hook and Cook home">
-        <span class="brand-mark">H&amp;C</span>
+        <img class="brand-logo" src="assets/logo-2.png" width="160" height="90" alt="Hook and Cook logo" />
         <span class="brand-text">Hook &amp; Cook</span>
       </a>
       <nav class="nav" aria-label="Primary">
@@ -77,6 +82,13 @@
           </div>
           <p class="fine" id="phone-line">Call / text: <a href="tel:+19492729391">(949) 272-9391</a> · <a href="mailto:hookandcooksc@gmail.com">hookandcooksc@gmail.com</a></p>
         </div>
+        <div class="hero-visual">
+          <img src="assets/logo-1.png" alt="Hook and Cook wordmark" class="hero-logo" />
+          <div class="hero-thumbs">
+            <img src="assets/menu-food.jpg" alt="Hook and Cook food menu" />
+            <img src="assets/menu-drinks.jpg" alt="Hook and Cook drinks and shave ice menu" />
+          </div>
+        </div>
         <aside class="hero-card" aria-label="Quick facts">
           <h2>Today at the pier</h2>
           <ul>
@@ -93,6 +105,16 @@
         <div class="section-head">
           <h2>Menu highlights</h2>
           <p>Full Square menu live in-store. Online ordering link goes live when the public Square storefront URL is published.</p>
+        </div>
+        <div class="menu-photos">
+          <figure>
+            <img src="assets/menu-food.jpg" alt="Food menu board" />
+            <figcaption>Food board</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/menu-drinks.jpg" alt="Drinks and shave ice menu board" />
+            <figcaption>Drinks &amp; shave ice</figcaption>
+          </figure>
         </div>
         <div class="menu-grid">
           <article class="menu-card">
