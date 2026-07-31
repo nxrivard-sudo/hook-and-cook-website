@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hookandcooksc.com/sitemap.xml
+Sitemap: https://nxrivard-sudo.github.io/hook-and-cook-website/sitemap.xml
