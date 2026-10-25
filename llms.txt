@@ -15,12 +15,12 @@
 - Tuesday: 9am to 4pm
 - Wednesday: Closed
 - Thursday: 9am to 4pm
-- Friday: 9am to sunset
-- Saturday: 8am to sunset
-- Sunday: 8am to sunset
+- Friday: 9am to 6pm
+- Saturday: 8am to 6pm
+- Sunday: 8am to 6pm
 
-## Menu (prices from our Square POS, updated 2026-10-23)
-- Baja Tacos: $14.00 — Chicken, fish, or shrimp, mango pico de gallo, and pickled onion.
+## Menu (prices from our Square POS, updated 2026-10-25)
+- Baja Tacos: $14.00 — Two flour tortillas with chicken, fish, or shrimp, mango pico de gallo, and pickled onion.
 - Big Baja Burrito: $16.00 — Chicken, fish, or shrimp with rice and beans, mango pico de gallo, citrus-cabbage slaw, and creamy Baja sauce.
 - Pier Protein Bowl: $15.00 — Grilled chicken, fish, or shrimp with coconut rice, mango pico de gallo, mango, and creamy Baja sauce.
 - Shaka Queso Nachos: $15.00
