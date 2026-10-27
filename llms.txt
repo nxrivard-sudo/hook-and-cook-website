@@ -73,6 +73,9 @@
 - Shaka Queso Nachos Meal: $24.00 — With fries, beignets and a soda.
 - Surf Dog Meal: $21.00 — With fries, beignets and a soda.
 
+## Public data
+- [Business facts, hours, full menu and page URLs (JSON)](https://hookandcooksc.com/feed.json) — derived from the visible site pages.
+
 ## Pages
 - [Menu](https://hookandcooksc.com/menu.html)
 - [Bait & Tackle / Pier Fishing](https://hookandcooksc.com/fishing.html)

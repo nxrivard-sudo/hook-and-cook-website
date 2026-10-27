@@ -1,0 +1,603 @@
+{
+  "title": "Hook & Cook — San Clemente Pier",
+  "url": "https://hookandcooksc.com/",
+  "updated": "2026-10-27",
+  "business": {
+    "name": "Hook & Cook",
+    "legalName": "Hook and Cook SC LLC",
+    "address": "615 Avenida Victoria, San Clemente, CA 92672",
+    "location": "At the end of San Clemente Pier",
+    "phone": "(949) 272-9391",
+    "email": "hookandcooksc@gmail.com",
+    "alcohol": "No alcohol served.",
+    "source": "https://hookandcooksc.com/visit.html"
+  },
+  "hours": {
+    "source": "https://hookandcooksc.com/visit.html",
+    "schedule": [
+      {
+        "day": "Monday",
+        "hours": "9am–4pm"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9am–4pm"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9am–4pm"
+      },
+      {
+        "day": "Friday",
+        "hours": "9am–6pm"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8am–6pm"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8am–6pm"
+      }
+    ],
+    "note": "Sunset closing varies by day; call before a late visit."
+  },
+  "menu": {
+    "source": "https://hookandcooksc.com/menu.html",
+    "note": "Prices from our Square catalog. Availability and modifiers may vary; checkout is authoritative. Tell the team about allergies before ordering.",
+    "sections": [
+      {
+        "name": "Dawn Patrol",
+        "url": "https://hookandcooksc.com/menu.html#dawn-patrol",
+        "items": [
+          {
+            "name": "Angler's Brekky Burrito",
+            "price": "$15.00"
+          },
+          {
+            "name": "Bag of Beignets",
+            "price": "$12.00"
+          },
+          {
+            "name": "Island French Toast",
+            "price": "$12.00"
+          },
+          {
+            "name": "Pierside Brekky Sando",
+            "price": "$13.00"
+          },
+          {
+            "name": "SC Açaí Bowl",
+            "price": "$15.00"
+          }
+        ]
+      },
+      {
+        "name": "Lobster Specialties",
+        "url": "https://hookandcooksc.com/menu.html#lobster-specialties",
+        "items": [
+          {
+            "name": "Lobster Roll",
+            "price": "$29.00",
+            "variants": "Cold with Mayo · Warm with Butter"
+          },
+          {
+            "name": "Lobster Roll Meal",
+            "price": "$38.00",
+            "description": "With fries, beignets and a soda.",
+            "variants": "Cold with Mayo · Warm with Butter"
+          }
+        ]
+      },
+      {
+        "name": "Baja",
+        "url": "https://hookandcooksc.com/menu.html#baja",
+        "items": [
+          {
+            "name": "Baja Tacos",
+            "price": "$14.00",
+            "description": "Chicken, fish, or shrimp, mango pico de gallo, and pickled onion."
+          },
+          {
+            "name": "Big Baja Burrito",
+            "price": "$16.00",
+            "description": "Chicken, fish, or shrimp with rice and beans, mango pico de gallo, citrus-cabbage slaw, and creamy Baja sauce."
+          },
+          {
+            "name": "Pier Protein Bowl",
+            "price": "$15.00",
+            "description": "Grilled chicken, fish, or shrimp with coconut rice, mango pico de gallo, mango, and creamy Baja sauce."
+          },
+          {
+            "name": "Shaka Queso Nachos",
+            "price": "$15.00"
+          }
+        ]
+      },
+      {
+        "name": "Classics",
+        "url": "https://hookandcooksc.com/menu.html#classics",
+        "items": [
+          {
+            "name": "Aloha Beef Sliders",
+            "price": "$15.00",
+            "description": "Gouda cheese. Aloha passion fruit Dijon mustard. 2 sliders on Hawaiian rolls. 1/2 order of fries. While supplies last."
+          },
+          {
+            "name": "Chicken Tenders & Fries",
+            "price": "$16.00",
+            "description": "Four tenders with beer-battered fries and ranch."
+          },
+          {
+            "name": "Chili-Lime Chicken Wrap",
+            "price": "$15.00",
+            "description": "Grilled chicken, sweet chili-lime glaze, crispy wonton slaw, mango pico, and pickled red onion."
+          },
+          {
+            "name": "Fish & Chips",
+            "price": "$16.00",
+            "description": "Beer-battered cod with fries, citrus slaw, and malt vinegar."
+          },
+          {
+            "name": "Kids Chicken Tenders",
+            "price": "$11.00"
+          },
+          {
+            "name": "Surf Dog",
+            "price": "$12.00"
+          }
+        ]
+      },
+      {
+        "name": "Guppy",
+        "url": "https://hookandcooksc.com/menu.html#guppy",
+        "items": [
+          {
+            "name": "Kids Quesadilla",
+            "price": "$10.00"
+          },
+          {
+            "name": "Kids Surf Dog",
+            "price": "$11.00"
+          },
+          {
+            "name": "Kids Taco",
+            "price": "$11.00",
+            "description": "Chicken, cheese, and coconut rice on a corn tortilla."
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "url": "https://hookandcooksc.com/menu.html#sides",
+        "items": [
+          {
+            "name": "Chips & Mango Pico",
+            "price": "$7.00"
+          },
+          {
+            "name": "Citrus Slaw",
+            "price": "$5.00"
+          },
+          {
+            "name": "Rice & Beans",
+            "price": "$6.00"
+          },
+          {
+            "name": "Side of Fries",
+            "price": "$7.00"
+          }
+        ]
+      },
+      {
+        "name": "Signature Shave Ice",
+        "url": "https://hookandcooksc.com/menu.html#signature-shave-ice",
+        "items": [
+          {
+            "name": "Bae Watch",
+            "price": "$8.50",
+            "description": "Coconut, vanilla, ice cream, condensed milk."
+          },
+          {
+            "name": "Cherry Lime",
+            "price": "$8.50",
+            "description": "Cherry, lime, ice cream."
+          },
+          {
+            "name": "P.O.G.",
+            "price": "$8.50"
+          },
+          {
+            "name": "Rainbow",
+            "price": "$8.50"
+          },
+          {
+            "name": "Shark Bite",
+            "price": "$8.50"
+          },
+          {
+            "name": "The Mermaid",
+            "price": "$8.50"
+          },
+          {
+            "name": "Watching Waves",
+            "price": "$8.50",
+            "description": "Blue raspberry, pineapple, orange, coconut, condensed milk."
+          }
+        ]
+      },
+      {
+        "name": "Custom Pier Shave Ice",
+        "url": "https://hookandcooksc.com/menu.html#custom-pier-shave-ice",
+        "items": [
+          {
+            "name": "Custom Pier Shave Ice",
+            "price": "$7.50"
+          }
+        ]
+      },
+      {
+        "name": "Sodas, Slush & Treats",
+        "url": "https://hookandcooksc.com/menu.html#sodas-slush-treats",
+        "items": [
+          {
+            "name": "Float",
+            "price": "$9.00"
+          },
+          {
+            "name": "Ice Cream",
+            "price": "$6.50"
+          },
+          {
+            "name": "Milkshake",
+            "price": "$10.00"
+          },
+          {
+            "name": "Slush",
+            "price": "$9.00"
+          },
+          {
+            "name": "Soda",
+            "price": "$5.50"
+          }
+        ]
+      },
+      {
+        "name": "Drink Buckets",
+        "url": "https://hookandcooksc.com/menu.html#drink-buckets",
+        "items": [
+          {
+            "name": "Minnow Bucket",
+            "price": "$9.00"
+          },
+          {
+            "name": "Shark Bite Bucket",
+            "price": "$9.00"
+          }
+        ]
+      },
+      {
+        "name": "Cafe",
+        "url": "https://hookandcooksc.com/menu.html#cafe",
+        "items": [
+          {
+            "name": "Drip Coffee",
+            "price": "$3.00"
+          },
+          {
+            "name": "Hot Latte",
+            "price": "$3.00"
+          },
+          {
+            "name": "Iced Latte",
+            "price": "$3.00"
+          },
+          {
+            "name": "Matcha Latte",
+            "price": "$3.00"
+          }
+        ]
+      },
+      {
+        "name": "Basics",
+        "url": "https://hookandcooksc.com/menu.html#basics",
+        "items": [
+          {
+            "name": "Water",
+            "price": "$1.00"
+          }
+        ]
+      },
+      {
+        "name": "Tackle Box Meal",
+        "url": "https://hookandcooksc.com/menu.html#tackle-box-meal",
+        "items": [
+          {
+            "name": "Baja Tacos Meal",
+            "price": "$23.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Big Baja Burrito Meal",
+            "price": "$25.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Chicken Tenders Meal",
+            "price": "$25.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Chili-Lime Chicken Wrap Meal",
+            "price": "$24.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Fish & Chips Meal",
+            "price": "$25.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Pier Protein Bowl Meal",
+            "price": "$24.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Shaka Queso Nachos Meal",
+            "price": "$24.00",
+            "description": "With fries, beignets and a soda."
+          },
+          {
+            "name": "Surf Dog Meal",
+            "price": "$21.00",
+            "description": "With fries, beignets and a soda."
+          }
+        ]
+      },
+      {
+        "name": "Bait & Tackle",
+        "url": "https://hookandcooksc.com/menu.html#bait-tackle",
+        "items": [
+          {
+            "name": "Bait",
+            "price": "$10.00"
+          },
+          {
+            "name": "Empty small tackle box",
+            "price": "$14.00"
+          },
+          {
+            "name": "Gloves",
+            "price": "$12.00"
+          },
+          {
+            "name": "Kids fishing pole",
+            "price": "$37.00"
+          },
+          {
+            "name": "Large blue tackle box",
+            "price": "$28.00"
+          },
+          {
+            "name": "Loaded Surf tackle box",
+            "price": "$40.00"
+          },
+          {
+            "name": "Sabikis",
+            "price": "$8.00",
+            "description": "Sabikis"
+          }
+        ]
+      },
+      {
+        "name": "Merchandise",
+        "url": "https://hookandcooksc.com/menu.html#merchandise",
+        "items": [
+          {
+            "name": "Bag of Chips",
+            "price": "$10.00",
+            "description": "House-fried chips. US Foods raw tortillas + avocado oil."
+          },
+          {
+            "name": "Bendy Shark Pop Tube",
+            "price": "$8.00"
+          },
+          {
+            "name": "Bracelet",
+            "price": "$5.00"
+          },
+          {
+            "name": "Digshell",
+            "price": "$5.00"
+          },
+          {
+            "name": "Fidget clicker",
+            "price": "$8.00"
+          },
+          {
+            "name": "First aid kit",
+            "price": "$5.00"
+          },
+          {
+            "name": "Flower clips",
+            "price": "$12.00"
+          },
+          {
+            "name": "Fun Doh Glow Sparkle Cube",
+            "price": "$13.00"
+          },
+          {
+            "name": "Fun Doh Rainbow Pumping",
+            "price": "$12.00"
+          },
+          {
+            "name": "Fun Doh Sparkle Cube",
+            "price": "$13.00"
+          },
+          {
+            "name": "Fun Doh food",
+            "price": "$9.00"
+          },
+          {
+            "name": "Hard shark figure",
+            "price": "$7.50"
+          },
+          {
+            "name": "Hats",
+            "price": "$30.00"
+          },
+          {
+            "name": "Hermit Crab Keychain",
+            "price": "$5.00"
+          },
+          {
+            "name": "Italian Ice Click Fidget",
+            "price": "$7.00"
+          },
+          {
+            "name": "Keychains",
+            "price": "$8.00"
+          },
+          {
+            "name": "Lobster Keychain",
+            "price": "$5.00"
+          },
+          {
+            "name": "Mermaid spring pop",
+            "price": "$4.00"
+          },
+          {
+            "name": "Mini Mermaid Bucket",
+            "price": "$12.00"
+          },
+          {
+            "name": "Mini Whale Shark",
+            "price": "$5.00"
+          },
+          {
+            "name": "Ocean Adventure Minis (3D Printed)",
+            "price": "$10.00"
+          },
+          {
+            "name": "Ocean World animal figure",
+            "price": "$4.50"
+          },
+          {
+            "name": "Pocketkins Pelican",
+            "price": "$10.00"
+          },
+          {
+            "name": "Pop out turtle keychain",
+            "price": "$6.00"
+          },
+          {
+            "name": "Puka shell necklace",
+            "price": "$7.00"
+          },
+          {
+            "name": "Rubber Duck Sea Turtle",
+            "price": "$8.00"
+          },
+          {
+            "name": "San Clemente-opoly",
+            "price": "$35.00"
+          },
+          {
+            "name": "Seashell Click Fidget",
+            "price": "$5.00"
+          },
+          {
+            "name": "Shark tooth necklace",
+            "price": "$5.00"
+          },
+          {
+            "name": "Shark water game",
+            "price": "$7.50"
+          },
+          {
+            "name": "Shell necklace",
+            "price": "$6.00"
+          },
+          {
+            "name": "Squeeze shark",
+            "price": "$12.00"
+          },
+          {
+            "name": "Squeeze squid",
+            "price": "$10.00"
+          },
+          {
+            "name": "Sticker",
+            "price": "$1.00"
+          },
+          {
+            "name": "Stretchy fish",
+            "price": "$10.00"
+          },
+          {
+            "name": "Stuffed animal",
+            "price": "$15.00"
+          },
+          {
+            "name": "Sun Bum air freshener",
+            "price": "$7.00"
+          },
+          {
+            "name": "Sun Bum chapstick",
+            "price": "$6.00"
+          },
+          {
+            "name": "Sunglasses",
+            "price": "$12.00"
+          },
+          {
+            "name": "Train whistle",
+            "price": "$6.50"
+          },
+          {
+            "name": "Vacation spray + Sun Bum",
+            "price": "$20.00"
+          },
+          {
+            "name": "Visor",
+            "price": "$30.00"
+          },
+          {
+            "name": "Wind-up turtle tub toy",
+            "price": "$8.00"
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "title": "San Clemente Pier Food, Lobster Rolls & Shave Ice | Hook & Cook",
+      "url": "https://hookandcooksc.com/"
+    },
+    {
+      "title": "Menu: Lobster Rolls, Fish Tacos & Breakfast | Hook & Cook",
+      "url": "https://hookandcooksc.com/menu.html"
+    },
+    {
+      "title": "Bait & Tackle at San Clemente Pier | Hook & Cook",
+      "url": "https://hookandcooksc.com/fishing.html"
+    },
+    {
+      "title": "Visit Hook & Cook: San Clemente Pier Directions & Hours",
+      "url": "https://hookandcooksc.com/visit.html"
+    },
+    {
+      "title": "Our Story: Local Owners, San Clemente Pier | Hook & Cook",
+      "url": "https://hookandcooksc.com/about.html"
+    },
+    {
+      "title": "FAQs: Hours, Ordering & Pier Fishing | Hook & Cook",
+      "url": "https://hookandcooksc.com/faq.html"
+    }
+  ]
+}
