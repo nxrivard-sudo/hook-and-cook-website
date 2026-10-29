@@ -15,9 +15,9 @@
 - Tuesday: 9am to 4pm
 - Wednesday: Closed
 - Thursday: 9am to 4pm
-- Friday: 9am to 6pm
-- Saturday: 8am to 6pm
-- Sunday: 8am to 6pm
+- Friday: 9am to sunset
+- Saturday: 8am to sunset
+- Sunday: 8am to sunset
 
 ## Menu (prices from our Square POS, updated 2026-10-28)
 - Baja Tacos: $14.00 — Chicken, fish, or shrimp, mango pico de gallo, and pickled onion.

@@ -33,17 +33,18 @@
       },
       {
         "day": "Friday",
-        "hours": "9am–6pm"
+        "hours": "9am–sunset"
       },
       {
         "day": "Saturday",
-        "hours": "8am–6pm"
+        "hours": "8am–sunset"
       },
       {
         "day": "Sunday",
-        "hours": "8am–6pm"
+        "hours": "8am–sunset"
       }
-    ]
+    ],
+    "note": "Sunset closing varies by day; call before a late visit."
   },
   "menu": {
     "source": "https://hookandcooksc.com/menu.html",
