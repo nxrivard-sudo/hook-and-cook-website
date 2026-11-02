@@ -19,7 +19,7 @@
 - Saturday: 8am to sunset
 - Sunday: 8am to sunset
 
-## Menu (prices from our Square POS, updated 2026-11-01)
+## Menu (prices from our Square POS, updated 2026-11-02)
 - Baja Tacos: $14.00 — Chicken, fish, or shrimp, mango pico de gallo, and pickled onion.
 - Big Baja Burrito: $16.00 — Chicken, fish, or shrimp with rice and beans, mango pico de gallo, citrus-cabbage slaw, and creamy Baja sauce.
 - Pier Protein Bowl: $15.00 — Grilled chicken, fish, or shrimp with coconut rice, mango pico de gallo, mango, and creamy Baja sauce.
@@ -48,6 +48,7 @@
 - Kids Taco: $11.00 — Chicken, cheese, and coconut rice on a corn tortilla.
 - Lobster Roll: $29.00 (Cold with Mayo), $29.00 (Warm with Butter)
 - Lobster Roll Meal: $38.00 (Cold with Mayo), $38.00 (Warm with Butter) — With fries, beignets and a soda.
+- Little Anglers Pier Party: $549.00 (Up to 10 kids), $150.00 (Deposit) — Up to 10 kids: rental rods, bait & tackle, 2 h guided lesson, rods up to 4 h, plus kids tenders & fries, drink and Small Pier Shave Ice per kid. $150 deposit; headcount 72 h prior; 10-kid minimum; free weather reschedule; ages 5-12, 1 adult per 4 kids.
 - Chips & Mango Pico: $7.00
 - Citrus Slaw: $5.00
 - Rice & Beans: $6.00

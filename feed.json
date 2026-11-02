@@ -1,7 +1,7 @@
 {
   "title": "Hook & Cook — San Clemente Pier",
   "url": "https://hookandcooksc.com/",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "business": {
     "name": "Hook & Cook",
     "legalName": "Hook and Cook SC LLC",
@@ -569,6 +569,18 @@
           {
             "name": "Wind-up turtle tub toy",
             "price": "$8.00"
+          }
+        ]
+      },
+      {
+        "name": "Parties",
+        "url": "https://hookandcooksc.com/menu.html#parties",
+        "items": [
+          {
+            "name": "Little Anglers Pier Party",
+            "price": "$549.00 / $150.00",
+            "description": "Up to 10 kids: rental rods, bait & tackle, 2 h guided lesson, rods up to 4 h, plus kids tenders & fries, drink and Small Pier Shave Ice per kid. $150 deposit; headcount 72 h prior; 10-kid minimum; free weather reschedule; ages 5-12, 1 adult per 4 kids.",
+            "variants": "Up to 10 kids · Deposit"
           }
         ]
       }
